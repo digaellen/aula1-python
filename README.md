@@ -13,3 +13,7 @@ Segui os seguintes passos:
 - 10 - Escrever um novo E-mail
 - 11 - Colocar o destino correto, o assunto e a mensagem
 - 12 - Enviar
+
+## Resultado:
+
+https://youtu.be/zBI7sUPQQAc
